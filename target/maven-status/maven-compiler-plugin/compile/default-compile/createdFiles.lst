@@ -1,0 +1,5 @@
+com/louis/spark/kafkademos/KafkaProperties.class
+com/louis/spark/kafkademos/KafkaClientApp.class
+com/louis/spark/kafkademos/KafkaProducer.class
+com/louis/spark/project/utils/HBaseUtils.class
+com/louis/spark/kafkademos/KafkaConsumer.class
